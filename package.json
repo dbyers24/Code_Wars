@@ -1,0 +1,19 @@
+{
+  "name": "code_wars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "largest_5_digit_number_in_a_series.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbyers24/code_wars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbyers24/code_wars/issues"
+  },
+  "homepage": "https://github.com/dbyers24/code_wars#readme"
+}
